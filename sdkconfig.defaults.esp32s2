@@ -1,0 +1,7 @@
+# This file was generated using idf.py save-defconfig. It can be edited manually.
+# Espressif IoT Development Framework (ESP-IDF)  Project Minimal Configuration
+#
+CONFIG_IDF_TARGET="esp32s2"
+CONFIG_ESP_PHY_ENABLE_USB=y
+CONFIG_ESP_CONSOLE_USB_CDC=y
+#CONFIG_ESP_CONSOLE_USB_CDC_SUPPORT_ETS_PRINTF=y
